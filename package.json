@@ -1,0 +1,12 @@
+{
+  "name": "auto-bolt",
+  "version": "1.0.0",
+  "description": "automatically creates a new account in bolt.new",
+  "author": "alaanvv",
+  "scripts": {
+    "start": "node main.mjs"
+  },
+  "dependencies": {
+    "puppeteer": "^24.15.0"
+  }
+}
