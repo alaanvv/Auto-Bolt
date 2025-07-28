@@ -92,6 +92,7 @@ async function login() {
   await page.click('button[type=submit]')
 
   console.log('[4/4] 🎉 Script completed!')
+  console.log(`Bolt: https://bolt.new/~/${proj}`)
   console.log(`User: ${email}`)
   console.log(`Password: ${password}`)
 
